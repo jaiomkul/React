@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "dp",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "game",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Get placed",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "kk",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "gk",
+      "status": false,
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

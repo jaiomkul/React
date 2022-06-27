@@ -1,0 +1,12 @@
+.inputData {
+    width: 250px;
+    margin: auto;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+}
