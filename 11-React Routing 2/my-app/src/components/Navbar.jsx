@@ -5,6 +5,7 @@ export const Navbar = () => {
     { title: "Home", to: "/" },
     { title: "About", to: "/about" },
     { title: "Users", to: "/userslist" },
+    // { title: "Login", to: "/login" },
   ];
 
   return (
